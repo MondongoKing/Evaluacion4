@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/seguimiento-gastos/static/css/main.7d6ec05e.css",
+    "main.js": "/seguimiento-gastos/static/js/main.eb54f68c.js",
+    "index.html": "/seguimiento-gastos/index.html",
+    "main.7d6ec05e.css.map": "/seguimiento-gastos/static/css/main.7d6ec05e.css.map",
+    "main.eb54f68c.js.map": "/seguimiento-gastos/static/js/main.eb54f68c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7d6ec05e.css",
+    "static/js/main.eb54f68c.js"
+  ]
+}
